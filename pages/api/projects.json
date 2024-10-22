@@ -1,6 +1,15 @@
 [
   {
     "id": 1,
+    "name": "Garam Dua Musim - Ecommerce V2",
+    "image": "/ssd.png",
+    "description": "New UI and improvement for Garam Dua Musim Store.",
+    "tags": ["next","mongodb", "tailwind", "shadcnui"],
+    "source_code": "https://github.com/itsnitinr/driwwwle-v2",
+    "demo": "https://driwwwle.com/"
+  },
+  {
+    "id": 2,
     "name": "Worky",
     "image": "/worky.webp",
     "description": "Free platform for anyone to build and share visual collaboration in real time.",
@@ -9,29 +18,20 @@
     "demo": "https://driwwwle.com/"
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "Garam Dua Musim - Ecommerce",
     "image": "/ecm.webp",
-    "description": "E-commerce website for a PCB manufacturing company",
+    "description": "Garam Dua Musim Store integrated with rajaongkir and midtrans payment gateway.",
     "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
     "demo": "https://www.pcbcupid.com/"
   },
   {
-    "id": 3,
-    "name": "HealthyWays",
-    "image": "https://imgur.com/8FFqaX8.png",
-    "description": "A food ordering platform for healthy and home-cooked meals",
+    "id": 4,
+    "name": "TravelLens - Bangkti Academy 2023",
+    "image": "/tv.webp",
+    "description": "Bangkit Academy Capstone Project. As a cloud computing I handle requirements in the Google Cloud platform such as API, Storage, AI, and GCP Permissions.",
     "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
     "source_code": "https://github.com/itsnitinr/healthyways",
     "demo": "https://healthyways.herokuapp.com/"
-  },
-  {
-    "id": 4,
-    "name": "VSCode Portfolio",
-    "image": "https://imgur.com/mKkz0iz.png",
-    "description": "A themeable and developer-centric portfolio based on the VSCode",
-    "tags": ["next", "css-modules"],
-    "source_code": "https://github.com/itsnitinr/vscode-portfolio",
-    "demo": "http://vscode-portfolio.vercel.app/"
   }
 ]

@@ -1,0 +1,17 @@
+[
+  {
+    "year": "2024 - Present",
+    "title": "Node JS Developer - Egogo Hub Indonesia",
+    "description": "I learned a lot here, including working with MongoDB, integrating the Meteor.js stack, developing an omnichannel platform called Live Integration Dashboard, creating a product catalog system, implementing Access Control List (ACL), building a marketplace API proxy for easier usage, and thoroughly documenting the API."
+  },
+  {
+    "year": "2023",
+    "title": "Cloud Computing - Bangkit Academy",
+    "description": "Mostly learn services as a cloud computing on Google Cloud Platform such as API, Storage, Vertex AI, Permission, and more."
+  },
+  {
+    "year": "2021 - 2022",
+    "title": "Website Developer - PT. Garam Dua Musim",
+    "description": "I started my professional experience as a Web Developer, developing and maintaining landing pages based on company needs."
+  }
+]
