@@ -1,37 +1,55 @@
 [
   {
     "id": 1,
+    "name": "Affiliator MoyoArom - AI Perfume Shop",
+    "image": "/aff.png",
+    "description": "Generate own perfume based on AI, make money with every purchase.",
+    "tags": ["mongodb", "Meteor JS", "tailwind"],
+    "source_code": "https://github.com/itsnitinr/driwwwle-v2",
+    "demo": "https://affiliator.moyoarom.com"
+  },
+  {
+    "id": 2,
+    "name": "Live Integration Dashboard",
+    "image": "/lid.png",
+    "description": "Omnichannel by Egogo Hub Indonesia",
+    "tags": ["Meteor JS", "tailwind", "mongodb"],
+    "source_code": "https://github.com/itsnitinr/driwwwle-v2",
+    "demo": "https://lid.egogohub.com"
+  },
+  {
+    "id": 3,
     "name": "Garam Dua Musim - Ecommerce V2",
     "image": "/ssd.png",
     "description": "New UI and improvement for Garam Dua Musim Store.",
     "tags": ["next","mongodb", "tailwind", "shadcnui"],
     "source_code": "https://github.com/itsnitinr/driwwwle-v2",
-    "demo": "https://driwwwle.com/"
+    "demo": "/"
   },
   {
-    "id": 2,
+    "id": 4,
     "name": "Worky",
     "image": "/worky.webp",
     "description": "Free platform for anyone to build and share visual collaboration in real time.",
     "tags": ["next", "convex", "clerk", "tailwind", "radixui"],
     "source_code": "https://github.com/itsnitinr/driwwwle-v2",
-    "demo": "https://driwwwle.com/"
+    "demo": "https://workyapp.vercel.app/"
   },
   {
-    "id": 3,
+    "id": 5,
     "name": "Garam Dua Musim - Ecommerce",
     "image": "/ecm.webp",
     "description": "Garam Dua Musim Store integrated with rajaongkir and midtrans payment gateway.",
     "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
-    "demo": "https://www.pcbcupid.com/"
+    "demo": "/"
   },
   {
-    "id": 4,
+    "id": 6,
     "name": "TravelLens - Bangkti Academy 2023",
     "image": "/tv.webp",
     "description": "Bangkit Academy Capstone Project. As a cloud computing I handle requirements in the Google Cloud platform such as API, Storage, AI, and GCP Permissions.",
     "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
     "source_code": "https://github.com/itsnitinr/healthyways",
-    "demo": "https://healthyways.herokuapp.com/"
+    "demo": "/"
   }
 ]
